@@ -1,0 +1,15 @@
+{
+  "data": {
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "K3E13J23",
+        "date": "1659400295069",
+        "size": "27792",
+        "url": "https://raw.githubusercontent.com/<jonrummple14-dev>/niu-custom-update/main/OTA_NIU_K3E13J23_45KPH_MAX_220718.bin",
+        "md5": "fc0fcba3886e93605a2847def7e69bd1"
+      }
+    ]
+  }
+}
